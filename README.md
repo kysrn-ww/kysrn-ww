@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31upd7aze42qcasbkejtdha4pr6a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31upd7aze42qcasbkejtdha4pr6a&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31upd7aze42qcasbkejtdha4pr6a&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kysrn-ww&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kysrn-ww&theme=algolia&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -72,6 +72,18 @@
   <a href="https://discord.com/users/944827209229688882" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kysrn-ww.kysrn-ww&right_color=darkgoldenrod"  />
 </div>
 
 ###
