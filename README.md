@@ -6,6 +6,7 @@
  
 </div>
 
+
 ###
 
 <br clear="both">
@@ -42,8 +43,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/anti-dfi-9bb8243ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -69,7 +68,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kysrn-ww&locale=en&mode=weekly&theme=maroongold&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kysrn-ww&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -83,26 +82,22 @@
 </picture>
 
 ###
-<br clear="both">
 
 <div align="center">
   <a href="https://nolosjuno.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=0d0d0d&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=portfolio&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="unsplash logo"  />
   </a>
-  &nbsp;
   <a href="https://wa.me/5493834600818" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp" />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  &nbsp;
   <a href="https://t.me/antidfi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  &nbsp;
-  <a href="mailto:Bastianonnm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail" />
+  <a href="Bastianonnm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
 </div>
 
 ###
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
