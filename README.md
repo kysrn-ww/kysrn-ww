@@ -2,7 +2,7 @@
 
  
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=560&lines=Desde+Catamarca+para+el+mundo+🌎;Web+%7C+C%2B%2B+%7C+React+%7C+FastAPI;Convierto+ideas+en+productos+reales)](https://git.io/typing-svg)
+font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=560&lines=Desde+Catamarca+para+el+mundo+🌎;Web+%7C+C%2B%2B+%7C+React+%7C+FastAPI;Convierto+ideas+en+productos+reales)](https://git.io/typing-svg)
  
 </div>
 
