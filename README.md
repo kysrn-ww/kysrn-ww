@@ -49,9 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kysrn-ww/kysrn-ww/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <a href="https://nolosjuno.org" target="_blank">
