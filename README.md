@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=220&section=header&text=Antidfi&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Desarrollador%20Web%20%2F%20C%2B%2B%20•%20Argentina&descAlignY=62&descSize=18&descColor=aaaaaa&animation=fadeIn" width="100%"/>
-###
+
  
 <h1 align="center">Hey 👋What's Up?</h1>
 
