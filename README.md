@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=220&section=header&text=Antidfi&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Desarrollador%20Web%20%2F%20C%2B%2B%20•%20Argentina&descAlignY=62&descSize=18&descColor=aaaaaa&animation=fadeIn" width="100%"/>
-###
+
  
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=560&lines=Desde+Catamarca+para+el+mundo+🌎;Web+%7C+C%2B%2B+%7C+React+%7C+FastAPI;Convierto+ideas+en+productos+reales)](https://git.io/typing-svg)
